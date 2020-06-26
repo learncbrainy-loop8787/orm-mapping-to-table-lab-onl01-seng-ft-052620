@@ -1,5 +1,3 @@
-require 'sqlite3'
-require_relative 
 
 
 require_relative '../lib/student'
